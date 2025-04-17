@@ -22,6 +22,12 @@
             ]
           },
           {
+            "group": "Примеры и Демо",
+            "pages": [
+              "employee-handbook"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
